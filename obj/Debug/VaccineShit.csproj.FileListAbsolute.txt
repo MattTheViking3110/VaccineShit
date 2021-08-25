@@ -1,0 +1,10 @@
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\bin\Debug\VaccineShit.exe.config
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\bin\Debug\VaccineShit.exe
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\bin\Debug\VaccineShit.pdb
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\obj\Debug\VaccineShit.csprojAssemblyReference.cache
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\obj\Debug\VaccineShit.Form1.resources
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\obj\Debug\VaccineShit.Properties.Resources.resources
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\obj\Debug\VaccineShit.csproj.GenerateResource.cache
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\obj\Debug\VaccineShit.csproj.CoreCompileInputs.cache
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\obj\Debug\VaccineShit.exe
+C:\Users\mattt\source\repos\VaccineShit\VaccineShit\obj\Debug\VaccineShit.pdb
